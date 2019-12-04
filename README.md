@@ -1,6 +1,6 @@
 ## How to install Sessions on Mac OS Mojave+ 
 
-Even though Safari extensions have been deprecated, the last version of Sessions still works on Mojave and Higher.
+Even though Safari extensions have been deprecated, the last version of Sessions still work on Mojave and Higher.
 
 It's installation is a little bit trickier than before, but you'll be just fine 😄
 
