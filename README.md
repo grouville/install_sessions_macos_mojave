@@ -10,9 +10,7 @@ It's installation is a little bit trickier than before, but you'll be just fine 
 
 **Steps**
 
-1. Download Session at this 
-
-   [address]: https://sessions-extension.github.io/Sessions/
+1. Download Session at this address <https://sessions-extension.github.io/Sessions/>
 
 2. Rename `Sessions.safariextz` into `Sessions.xar` 
 
