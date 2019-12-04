@@ -41,7 +41,7 @@ Yeeeaah, it's now running. However, we need to make the database persistent, bec
 3. Then `open .`
 4. In the window that will appear, find the `Databases` folder and right-click on the only folder inside. It should look like `safari-extension_yoo.david.sessions-0000000000_0` or any weird combinations after the `sessions-`
 5. Lock the folder
-   1. On the menu that appeared because of the right-click, select the Get infos` option
+   1. On the menu that appeared because of the right-click, select the `Get infos` option
    2. Check the box labelled `Lock`
 
 
